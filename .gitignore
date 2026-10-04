@@ -1,0 +1,41 @@
+# Visual Studio build outputs
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.dll
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.Build.CppClean.log
+*.FileListAbsolute.txt
+
+# Visual Studio hidden folder
+.vs/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
